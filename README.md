@@ -36,13 +36,10 @@ IMUDynamicPositioning is a project designed to implement dynamic positioning usi
 
 ## Project Structure
 
-src/: Contains the source code for the project.
-
-include/: Contains the header files.
-
-CMakeLists.txt: CMake configuration file.
-
-main.cpp: Entry point of the application.
+- src/: Contains the source code for the project.
+- include/: Contains the header files.
+- CMakeLists.txt: CMake configuration file.
+- main.cpp: Entry point of the application.
 
 ## Contact
 For any inquiries or feedback, please contact akui1321.
